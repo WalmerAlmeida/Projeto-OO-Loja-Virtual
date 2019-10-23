@@ -1,6 +1,6 @@
 # Projeto-OO-Loja-Virtual
-PROJETO DE SOFTWARE
-PROJETO OO
+PROJETO DE SOFTWARE, 
+PROJETO OO, 
 LOJA VIRTUAL
 
 	O projeto a ser implementado, será uma loja virtual similar à sites de lojas como Americanas, Extra, ... . Essa loja deverá executar essas funcionalidades:
