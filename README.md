@@ -20,7 +20,7 @@ LOJA VIRTUAL
 5º Adicionar itens : 
 	Os itens podem apenas ser adicionados pelo administrador, que deverá colocar nome, preço, descrição, desconto, se houver, e o departamento do produto a ser adicionado(eletrodoméstico, ...).
 
-6º Listagem de Itens por Departamento : 
+6º Listagem de Itens : 
 	Ao selecionar essa funcionalidade, aparecerá uma lista de departamentos, que ao serem selecionados, exibirá os itens pertencentes à esse departamento e ao selecionar o item, será exibido nome, preço, descrição, comentários, opção de compra e deixar comentário.
 
 7º Adição de Departamento : 
@@ -33,13 +33,13 @@ LOJA VIRTUAL
 	A remoção poderá ser feita tanto pelo usuário dono da conta, quanto pelo administrador e deverá excluir todos os dados do usuário.
 
 10º Comentar sobre Determinados Itens : 
-	Após a busca por itens ou listagem de itens por departamento, os usuários que compraram o produto, poderão fazer comentários.
+	Após a busca por itens ou listagem de itens, os usuários que compraram o produto, poderão fazer comentários.
 
 11º Itens Comprados : 
 	Cada usuário poderá ver as compras que efetuou e o status(pago, aguardando confirmação de pagamento).
 
 12º Comprar Item : 
-	A compra deve ocorrer pelo usuário após a busca por itens ou listagem de itens por departamento, após isso, o usuário deverá selecionar “comprar”, o que irá adicionar o item ao carrinho, após isso, poderá acessar o carrinho e selecionar finalizar compra, e depois selecionar o cartão caso já tenha sido adicionado, se não, insere as informações do cartão. Após a confirmação de pagamento, o status da compra ficará como pago.
+	A compra deve ocorrer pelo usuário após a busca por itens ou listagem de itens, após isso, o usuário deverá selecionar “comprar”, o que irá adicionar o item ao carrinho, após isso, poderá acessar o carrinho e selecionar finalizar compra, e depois selecionar o cartão caso já tenha sido adicionado, se não, insere as informações do cartão. Após a confirmação de pagamento, o status da compra ficará como pago.
 
 13º Confirmar Pagamento : 
 	Após a loja receber o pagamento referente ao item comprado, poderá alterar o status de aguardando confirmação de pagamento para pago.
