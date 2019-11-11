@@ -33,8 +33,7 @@ LOJA VIRTUAL
 	O administrador poderá remover departamento, o que incluirá todos os itens dentro do departamento removido.
 
 10º Remoção de Conta : 
-	A remoção poderá ser feita tanto pelo usuário dono da conta, quanto pelo administrador e deverá excluir todos os dados do usuário.
-
+	A remoção poderá ser feita apenas pelo usuário dono da conta.
 11º Comentar sobre Determinados Itens : 
 	Após a busca por itens ou listagem de itens, os usuários que compraram o produto, poderão fazer comentários.
 
