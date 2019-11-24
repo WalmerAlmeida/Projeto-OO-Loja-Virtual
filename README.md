@@ -15,7 +15,7 @@ LOJA VIRTUAL
 	A edição de perfil deve permitir aos usuários cadastrados mudar nome, endereço, cpf ou cnpj, e-mail, senha e adicionar um cartão para compras.
 
 4º Busca por Itens : 
-	Para cada Item adicionado, se o nome buscado coincidir com o nome do item, será exibido nome, preço, descrição, comentários, opção de compra e deixar comentário.
+	Para cada Item adicionado, se o nome buscado coincidir com o nome do item, será exibido nome, preço, descrição, desconto, se houver, comentários, opção de compra e deixar comentário.
 
 5º Adicionar itens : 
 	Os itens podem apenas ser adicionados pelo administrador, que deverá colocar nome, preço, descrição, desconto, se houver, e o departamento do produto a ser adicionado(eletrodoméstico, ...).
@@ -24,7 +24,7 @@ LOJA VIRTUAL
 	Os itens podem apenas ser removidos pelo administrador.
 
 7º Listagem de Itens : 
-	Ao selecionar essa funcionalidade, aparecerá uma lista de departamentos, que ao serem selecionados, exibirá os itens pertencentes à esse departamento e ao selecionar o item, será exibido nome, preço, descrição, comentários, opção de compra e deixar comentário.
+	Ao selecionar essa funcionalidade, aparecerá uma lista de departamentos, que ao serem selecionados, exibirá os itens pertencentes à esse departamento e ao selecionar o item, será exibido nome, preço, descrição, desconto, se houver, comentários, opção de compra e deixar comentário.
 
 8º Adição de Departamento : 
 	O administrador poderá adicionar departamento.
