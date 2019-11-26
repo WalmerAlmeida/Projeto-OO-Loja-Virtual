@@ -41,13 +41,10 @@ LOJA VIRTUAL
 	Cada usuário poderá ver as compras que efetuou e o status(pago, aguardando confirmação de pagamento).
 
 13º Comprar Item : 
-	A compra deve ocorrer pelo usuário após a busca por itens ou listagem de itens, após isso, o usuário deverá selecionar “Adicionar ao Carrinho”, o que irá adicionar o item ao carrinho, após isso, poderá acessar o carrinho e selecionar finalizar compra, e depois selecionar o cartão e inserir as informações do cartão. Após a confirmação de pagamento, o status da compra ficará como pago.
-
-14º Confirmar Pagamento : 
-	Após a loja receber o pagamento referente ao item comprado, poderá alterar o status de aguardando confirmação de pagamento para pago.
+	A compra deve ocorrer pelo usuário após a busca por itens ou listagem de itens, após isso, o usuário deverá selecionar “Adicionar ao Carrinho”, o que irá adicionar o item ao carrinho, após isso, poderá acessar o carrinho e selecionar finalizar compra, e depois inserir as informações do cartão. Após a confirmação de pagamento, o status da compra ficará como pago.
 	
-15º Editar Itens à Venda :
+14º Editar Itens à Venda :
 	O administrador poderá editar os itens à venda.
 	
-16º Acessar Carrinho :
+15º Acessar Carrinho :
 	O usuário poderá acessar o carrinho com todos os itens adicionados e escolher se deseja finalizar a compra, remover item ou diminuir e aumentar a quantidade de itens que deseja comprar.
