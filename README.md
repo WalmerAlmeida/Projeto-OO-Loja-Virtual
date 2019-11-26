@@ -12,7 +12,7 @@ LOJA VIRTUAL
 	A criação da conta deve conter dados como, nome, endereço, cpf ou cnpj, e-mail e senha.
 
 3º Edição de Perfil : 
-	A edição de perfil deve permitir aos usuários cadastrados mudar nome, endereço, cpf ou cnpj, e-mail, senha e adicionar um cartão para compras.
+	A edição de perfil deve permitir aos usuários cadastrados mudar nome, endereço, cpf ou cnpj, e-mail e senha.
 
 4º Busca por Itens : 
 	Para cada Item adicionado, se o nome buscado coincidir com o nome do item, será exibido nome, preço, descrição, desconto, se houver, comentários, opção de compra e deixar comentário.
@@ -41,7 +41,7 @@ LOJA VIRTUAL
 	Cada usuário poderá ver as compras que efetuou e o status(pago, aguardando confirmação de pagamento).
 
 13º Comprar Item : 
-	A compra deve ocorrer pelo usuário após a busca por itens ou listagem de itens, após isso, o usuário deverá selecionar “Adicionar ao Carrinho”, o que irá adicionar o item ao carrinho, após isso, poderá acessar o carrinho e selecionar finalizar compra, e depois selecionar o cartão caso já tenha sido adicionado, se não, insere as informações do cartão. Após a confirmação de pagamento, o status da compra ficará como pago.
+	A compra deve ocorrer pelo usuário após a busca por itens ou listagem de itens, após isso, o usuário deverá selecionar “Adicionar ao Carrinho”, o que irá adicionar o item ao carrinho, após isso, poderá acessar o carrinho e selecionar finalizar compra, e depois selecionar o cartão e inserir as informações do cartão. Após a confirmação de pagamento, o status da compra ficará como pago.
 
 14º Confirmar Pagamento : 
 	Após a loja receber o pagamento referente ao item comprado, poderá alterar o status de aguardando confirmação de pagamento para pago.
