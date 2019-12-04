@@ -3,16 +3,16 @@ PROJETO DE SOFTWARE,
 PROJETO OO, 
 LOJA VIRTUAL
 
-	O projeto a ser implementado, terá como principal função, permitir que qualquer pessoa ou empresa criar sua própria loja virtual e vender seus produtos aos moldes de grandes lojas como Amazon, Americanas, ... . Essa loja deverá executar essas funcionalidades:
+	O projeto a ser implementado, terá como principal função, permitir que qualquer pessoa possa criar sua própria loja virtual e vender seus produtos aos moldes de grandes lojas como Amazon, Americanas, ... . Essa loja deverá executar essas funcionalidades:
 
 1º Criar Loja:	
 	Ao criar a loja, você terá que escolher um nome para a loja, criar uma conta, o qual permitirá acesso a conta do administrador que será responsável pelas funcionalidades que necessitarão de alto nível de prioridade. 
 
 2º Criação de Conta : 
-	A criação da conta deve conter dados como, nome, endereço, cpf ou cnpj, e-mail e senha.
+	A criação da conta deve conter dados como, nome, endereço, cpf, e-mail e senha.
 
 3º Edição de Perfil : 
-	A edição de perfil deve permitir aos usuários cadastrados mudar nome, endereço, cpf ou cnpj, e-mail e senha.
+	A edição de perfil deve permitir aos usuários cadastrados mudar nome, endereço, cpf, e-mail e senha.
 
 4º Busca por Itens : 
 	Para cada Item adicionado, se o nome buscado coincidir com o nome do item, será exibido nome, preço, descrição, desconto, se houver, comentários, opção de compra e deixar comentário.
